@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://haohan-lily-hu.github.io/"
+title: "Haohan Lily Hu"
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,25 +12,25 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: Research
+          url: research/
           weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
+        - name: Publications
+          url: publications/
+          weight: 4
+        - name: Teaching
+          url: teaching/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
+        - name: CV
+          url: cv.pdf
+          weight: 5
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          url: https://www.webofscience.com/wos/author/record/MSY-6982-2025
+          weight: 2
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "Personal academic website of Haohan Lily Hu."
+    author: Haohan Lily Hu
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -44,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["research", "publications", "teaching", "CV", "blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,50 +54,34 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Haohan Lily Hu
+          subtitle: "Welcome to my home page! My name is Haohan Lily Hu; I am a Ph.D. candidate of Journalism and Communication Studies at the University of Hong Kong. My research interest focus on comparative political communication, multimodal communication (text, image, video), and computational analysis of news discourse. Methodologically, I’m interested in computational social science, especially natural language processing, (multimodal) large language model, and visual analyses. I am experienced in 3D animation, VR game production, and programming languages such as Python, R, C#, and SQL. I also enjoy the process of learning and exploring novel facets of emerging technologies and media. I obtained my M.J. (Journalism) degree at the University of Hong Kong and B.Sc from the School of Creative Media at the City University of Hong Kong. Outside academia, I have worked as a journalism and communication intern at China Daily and Hong Kong Trade Development Council."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Research
+              url: research/
+            - name: Publications
+              url: publications/
+            - name: Teaching
+              url: teaching/
+            - name: CV
+              url: cv.pdf
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://www.webofscience.com/wos/author/record/MSY-6982-2025
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:lilyhhhu@protonmail.com
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://scholar.google.com/citations?hl=en&user=5oeb85gAAAAJ
+        - name: Web of Science
+          url: https://www.webofscience.com/wos/author/record/MSY-6982-2025
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/haohan-lily-hu
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +89,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Haohan Lily Hu"
       icon: favicon.ico
       iconHeight: 18
 
