@@ -18,10 +18,13 @@ menu:
         - name: Curriculum vitae
           url: cv.pdf
           weight: 5
-        - name: Education
-          url: education/
+        - name: About Me
+          url: aboutme/
           weight: 3
-        - name: Blog
+        - name: News
+          URL: news
+          weight: 2
+        - name: Miscellaneous
           url: https://www.webofscience.com/wos/author/record/MSY-6982-2025
           weight: 2
 
@@ -40,7 +43,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications", "CV", "education", "blog"]
+    MainSections: ["publications", "CV", "aboutme", "news", "miscellaneous"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -51,20 +54,20 @@ params:
     profileMode:
           enabled: true
           title: Haohan Lily Hu
-          subtitle: "Welcome to my home page! I am a Ph.D. candidate in Journalism and Communication at the University of Hong Kong. /n My research interest focus on comparative political communication, multimodal communication (text, image, video), and computational analysis of news discourse. Methodologically, I’m interested in computational social science, especially natural language processing, (multimodal) large language model, and visual analyses. I am experienced in 3D animation, VR game production, and programming languages such as Python, R, C#, and SQL. I also enjoy the process of learning and exploring novel facets of emerging technologies and media. I obtained my M.J. (Journalism) degree at the University of Hong Kong and B.Sc from the School of Creative Media at the City University of Hong Kong. Outside academia, I have worked as a journalism and communication intern at China Daily and Hong Kong Trade Development Council."
+          subtitle: "Welcome to my home page! I am a Ph.D. candidate in Journalism and Communication at the University of Hong Kong.<br/><br/>My research interest focus on comparative political communication, multimodal communication (text, image, video), and computational analysis of news discourse. Methodologically, I’m interested in computational social science, especially natural language processing, (multimodal) large language model, and visual analyses. I also enjoy the process of learning and exploring novel facets of emerging technologies and media."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Research
-              url: research/
             - name: Publications
               url: publications/
-            - name: Education
-              url: education/
             - name: CV
               url: cv.pdf
-            - name: Blog
+            - name: About me
+              url: aboutme/
+            - name: News
+              url: news/
+            - name: Miscellaneous
               url: https://www.webofscience.com/wos/author/record/MSY-6982-2025
 
     socialIcons:
