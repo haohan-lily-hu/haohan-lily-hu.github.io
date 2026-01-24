@@ -7,7 +7,7 @@ description: "Description"
 
 Hello! Welcome to my webstie. My name is Haohan Lily Hu (胡皓涵).
 
-I am a Ph.D. candidate in [Journalism and Communication](https://jmsc.hku.hk/) at the University of Hong Kong. My research interest focus on comparative political communication (especially in China and Unitied States context) and computational analysis of news discourse. Methodologically, I’m interested in computational social science, especially (multimodal) nlp, (vision-) language models, and computational visual analysis. 
+I am a Ph.D. candidate in [Journalism and Communication](https://jmsc.hku.hk/) at the University of Hong Kong, supvervised by Professor [King-wa Fu](https://sites.google.com/site/fukingwa/). My research interest focus on comparative political communication (especially in China and Unitied States context) and computational analysis of news discourse. Methodologically, I’m interested in computational social science, especially (multimodal) nlp, (vision-) language models, and computational visual analysis. 
 
 I am experienced in 3D animation, VR game production, and multiple programming languages. I obtained my M.J. (Journalism) degree at the University of Hong Kong and B.Sc from the [School of Creative Media](https://www.scm.cityu.edu.hk/) at the City University of Hong Kong. Outside academia, I have worked as a journalism and communication intern at [China Daily](https://www.chinadailyhk.com/hk/) and [Hong Kong Trade Development Council](https://home.hktdc.com/).
 

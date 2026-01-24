@@ -24,9 +24,6 @@ menu:
         - name: About Me
           url: aboutme/
           weight: 3
-        # - name: News
-        #   URL: news
-        #   weight: 2
         - name: Miscellaneous
           url: https://lilyhhwho.wixsite.com/huhaohanlily/animation
           weight: 4
@@ -46,7 +43,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications", "CV", "aboutme", "news", "miscellaneous"]
+    MainSections: ["publications", "CV", "aboutme", "miscellaneous"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -64,18 +61,14 @@ params:
           buttons:
             - name: Publications
               url: publications/
-            - name: CV
+            - name: Curriculum vitae
               url: cv.pdf
             - name: About me
               url: aboutme/
-            #- name: News
-            #  url: news/
             - name: Miscellaneous
               url: https://lilyhhwho.wixsite.com/huhaohanlily/animation
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:lilyhhhu@protonmail.com
         - name: Google Scholar
