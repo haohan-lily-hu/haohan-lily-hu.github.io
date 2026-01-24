@@ -2,6 +2,9 @@ baseURL: "https://haohan-lily-hu.github.io/"
 title: "Haohan Lily Hu"
 theme: PaperMod
 
+# reference: https://weizhang-econ.github.io/ ## for her news section
+# https://rosavandenende.github.io/ ## for her talks section
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
@@ -14,19 +17,19 @@ menu:
     main:
         - name: Publications
           url: publications/
-          weight: 5 
+          weight: 1
         - name: Curriculum vitae
           url: cv.pdf
-          weight: 5
+          weight: 2
         - name: About Me
           url: aboutme/
           weight: 3
-        - name: News
-          URL: news
-          weight: 2
+        # - name: News
+        #   URL: news
+        #   weight: 2
         - name: Miscellaneous
-          url: https://www.webofscience.com/wos/author/record/MSY-6982-2025
-          weight: 2
+          url: https://lilyhhwho.wixsite.com/huhaohanlily/animation
+          weight: 4
 
 params:
     description: "Personal academic website of Haohan Lily Hu."
@@ -54,7 +57,7 @@ params:
     profileMode:
           enabled: true
           title: Haohan Lily Hu
-          subtitle: "Welcome to my home page! I am a Ph.D. candidate in Journalism and Communication at the University of Hong Kong.<br/><br/>My research interest focus on comparative political communication, multimodal communication (text, image, video), and computational analysis of news discourse. Methodologically, I’m interested in computational social science, especially natural language processing, (multimodal) large language model, and visual analyses. I also enjoy the process of learning and exploring novel facets of emerging technologies and media."
+          subtitle: "Welcome to my page! I am a Ph.D. candidate in Communication at the <i>University of Hong Kong</i>.<br/><br/>My research interest focus on comparative <i><b>political communication</i></b> and computational analysis of <i><b>news discourse</i></b>. Methodologically, I’m interested in computational social science, especially <b><i>(multimodal) nlp</i></b>, <b><i>(vision-) language models</i></b>, and <b><i>computational visual analysis</i></b>."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -65,10 +68,10 @@ params:
               url: cv.pdf
             - name: About me
               url: aboutme/
-            - name: News
-              url: news/
+            #- name: News
+            #  url: news/
             - name: Miscellaneous
-              url: https://www.webofscience.com/wos/author/record/MSY-6982-2025
+              url: https://lilyhhwho.wixsite.com/huhaohanlily/animation
 
     socialIcons:
         - name: CV
