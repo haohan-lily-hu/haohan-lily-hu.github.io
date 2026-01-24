@@ -18,8 +18,8 @@ menu:
         - name: Publications
           url: publications/
           weight: 4
-        - name: Teaching
-          url: teaching/
+        - name: Education
+          url: education/
           weight: 3
         - name: CV
           url: cv.pdf
@@ -31,7 +31,6 @@ menu:
 params:
     description: "Personal academic website of Haohan Lily Hu."
     author: Haohan Lily Hu
-    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -64,8 +63,8 @@ params:
               url: research/
             - name: Publications
               url: publications/
-            - name: Teaching
-              url: teaching/
+            - name: Education
+              url: education/
             - name: CV
               url: cv.pdf
             - name: Blog
