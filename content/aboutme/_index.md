@@ -15,10 +15,10 @@ Outside of research, I enjoy running🏃‍♀️, hiking🍃, and writing✍️
 
 ---
 
-### Education
+<!-- ### Education
 * Ph.D. Candidate, School of Future Media, University of Hong Kong, August 2026
 * M.J., Journalism and Media Studies Centre, University of Hong Kong, 2020
-* B.Sc., School of Creative Media, City University of Hong Kong, 2019
+* B.Sc., School of Creative Media, City University of Hong Kong, 2019 -->
 
 
 ### Skills
