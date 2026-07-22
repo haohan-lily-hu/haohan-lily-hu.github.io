@@ -19,7 +19,7 @@ menu:
           url: publications/
           weight: 1
         - name: Curriculum vitae
-          url: cv.pdf
+          url: cv2.pdf
           weight: 2
         - name: About Me
           url: aboutme/
@@ -62,7 +62,7 @@ params:
             - name: Publications
               url: publications/
             - name: Curriculum vitae
-              url: cv.pdf
+              url: cv2.pdf
             - name: About me
               url: aboutme/
             - name: Miscellaneous
