@@ -25,7 +25,7 @@ menu:
           url: aboutme/
           weight: 3
         - name: Miscellaneous
-          url: https://lilyhhwho.wixsite.com/huhaohanlily/animation
+          url: https://lilyhhwho.wixsite.com/huhaohanlily
           weight: 4
 
 params:
@@ -54,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Haohan Lily Hu
-          subtitle: "Welcome to my page! I am a Ph.D. candidate in Communication at the <i>University of Hong Kong</i>.<br/><br/>My research interest focus on comparative <i><b>political communication</i></b> and computational analysis of <i><b>news discourse</i></b>. Methodologically, I’m interested in computational social science, especially <b><i>(multimodal) nlp</i></b>, <b><i>(vision-) language models</i></b>, and <b><i>computational visual analysis</i></b>."
+          subtitle: "Welcome to my page! I am a Ph.D. candidate in Communication at the University of Hong Kong.<br/><br/>My research interest focus on comparative <i><b>political communication</i></b> and computational analysis of <i><b>news discourse</i></b>. Methodologically, I’m interested in computational social science, especially <b><i>(multimodal) nlp</i></b>, <b><i>(vision-) language models</i></b>, and <b><i>computational visual analysis</i></b>."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -66,17 +66,17 @@ params:
             - name: About me
               url: aboutme/
             - name: Miscellaneous
-              url: https://lilyhhwho.wixsite.com/huhaohanlily/animation
+              url: https://lilyhhwho.wixsite.com/huhaohanlily
 
     socialIcons:
         - name: Email
           url: mailto:lilyhhhu@protonmail.com
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=5oeb85gAAAAJ
-        - name: Web of Science
-          url: https://www.webofscience.com/wos/author/record/MSY-6982-2025
         - name: LinkedIn
           url: https://www.linkedin.com/in/haohan-lily-hu
+        - name: Web of Science
+          url: https://www.webofscience.com/wos/author/record/MSY-6982-2025
 
     assets:
         disableScrollBarStyle: true
