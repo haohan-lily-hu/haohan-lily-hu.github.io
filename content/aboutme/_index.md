@@ -11,7 +11,7 @@ I am a Ph.D. candidate in [Journalism and Communication](https://hkums.hku.hk/) 
 
 I am experienced in 3D animation, VR game production, and multiple programming languages. I obtained my M.J. (Journalism) degree at the University of Hong Kong and B.Sc from the [School of Creative Media](https://www.scm.cityu.edu.hk/) at the City University of Hong Kong. Outside academia, I have worked as a journalism and communication intern at [China Daily](https://www.chinadailyhk.com/hk/) and [Hong Kong Trade Development Council](https://home.hktdc.com/).
 
-Outside of research, I enjoy running🏃‍♀️, hiking🍃, and writing✍️. I also enjoy the process of learning and exploring novel facets of emerging technologies and media. Feel free to check out this [link](https://lilyhhwho.wixsite.com/huhaohanlily/animation) for my works 📷📝🎨.
+Outside of research, I enjoy running🏃‍♀️, hiking🍃, and writing✍️. I also enjoy the process of learning and exploring novel facets of emerging technologies and media. Feel free to check out this [link](https://sites.google.com/view/lily-blog/miscellaneous) for my works 📷📝🎨.
 
 ---
 
@@ -26,4 +26,4 @@ Outside of research, I enjoy running🏃‍♀️, hiking🍃, and writing✍️
 * Statistical Analysis: R, SPSS
 * Database: SQL, MongoDB
 * Graphics and Rendering: Unity, Maya
-* Languages: English, Chinese, Cantonese, Japanese
+* Languages: English, Mandarin, Cantonese, Japanese

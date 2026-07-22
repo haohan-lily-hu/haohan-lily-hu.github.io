@@ -27,9 +27,9 @@ description: "publication"
 
 + **Hu, H. L.**, Fu, K.-W. (2026). Intermedia Agenda Setting Dynamics between Chinese and U.S. Mainstream Media and Social Media: An LLM-Assisted Framework for News Discourse.
 
----
+<!-- --- -->
 
-## Conference Presentations
+<!-- ## Conference Presentations
 
 <ol reversed start="6">
   <li><b>Hu, H. L.</b> (2026). <a href="https://uchicago.hk/event/new-horizons-ai-research-social-sciences-and-humanities-conference">Intermedia Agenda-Setting Dynamics between Mainstream News and Social Media: An LLM-Assisted Framework for News Discourse [Poster session].</a>. <i>New Horizons for AI Research in the Social Sciences and Humanities</i>. Hong Kong, January 26–27, 2026. <br></br></li>
@@ -38,4 +38,4 @@ description: "publication"
   <li><b>Hu, H. L.</b>, Fu, K.-W. (2025). Visual Framing in Media Coverage of Conflict: A Multimodal Computational Framework for Analyzing News Short Video. <i>Preconference of 75th Annual International Communication Association (ICA).</i> Denver, Colorado, United States, June 12–16, 2025. <br></br></li>
   <li><b>Hu, H. L.</b>, Zhao, A. (2023). Rule with users on social media: Unveiling Strategical Governance and User Dynamics in Weibo’s Community Content Moderation System.<i>73th Annual International Communication Association (ICA).</i> Toronto, Ontario, Canada, May 25–29, 2023. <br></br></li>
   <li><b>Hu, H. L.</b>, Fu, K.-W. (2021). Effectiveness of VR Intervention in Promoting Sustainable Hand Hygiene: Manipulating the Immersive Quality in Environment and Perspective to Elicit Presence, Embodiment and Self-efficacy. <i>Association for Education in Journalism and Mass Communication (AEJMC).</i> Virtual, August 4-7, 2021.</li>
-</ol>
+</ol> -->
